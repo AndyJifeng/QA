@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // 封装axios接口
 import axios from 'axios'
 import createStore from '@/store/index'

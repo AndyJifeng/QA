@@ -1,24 +1,7 @@
-# qa-new
+# qa
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* **2021/04/23更新**
+  1. 重构页面
+  2. 新增当模板未匹配上时，允许自主添加进模板库
+* **2021/04/23更新**
+  1. 新增数据导入（压缩文件名必须为dictionary和template）
